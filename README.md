@@ -1,3 +1,5 @@
-# alan-turing.github.io
+# Tribute page: Alan Turing
 
-Check it! https://alevargass.github.io/alan-turing.github.io/
+### Description
+
+Only a tribute page of Alan Turing, I made it with HTML and CSS
